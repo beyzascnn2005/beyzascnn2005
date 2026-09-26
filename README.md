@@ -1,16 +1,13 @@
-## Hi there 👋
+# Beyza Seçen
 
-<!--
-**beyzascnn2005/beyzascnn2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atatürk Üniversitesi Yazılım Mühendisliği 4. sınıf öğrencisiyim. Backend yazılım geliştirme ve veri analitiği alanlarında kendimi geliştiriyorum. Python ve FastAPI ile web uygulamaları, Python ile veri analizi projeleri üzerinde çalışıyorum.
 
-Here are some ideas to get you started:
+## Öne Çıkan Projeler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Pastane Sipariş ve Tanıtım Sitesi](https://github.com/beyzascnn2005/pastane-projesi) — FastAPI, SQLAlchemy ve PostgreSQL ile geliştirilen; kullanıcı doğrulama, ürün ve sipariş akışları içeren, Render üzerinde yayımlanmış web uygulaması.
+- [Gerçek Zamanlı Web IRC Sohbet Uygulaması](https://github.com/beyzascnn2005/web-irc-chat-app) — Node.js, Express, Socket.IO ve MySQL ile çok odalı, gerçek zamanlı mesajlaşma uygulaması.
+- [Kalp Hastalığı Verisi Analizi](https://github.com/beyzascnn2005/Heart-Disease-Analysis-ML) — UCI veri setiyle veri ön işleme, keşifsel analiz, görselleştirme ve K-Means kümeleme çalışması.
+
+## Teknolojiler
+
+Python · C · C++ · JavaScript · FastAPI · Node.js · Express · MySQL · PostgreSQL · SQLAlchemy · Pandas · Git/GitHub
